@@ -1,8 +1,7 @@
 # KomponentIntegrationTestExempel
 
 Det här är ett projekt jag använder för att demonstrera hur man bygger ett REST API i Spring Boot med stöd för tre olika typer av tester:
-
-✅ Enhetstest • 🔗 Komponenttest • 🌐 Integrationstest
+ Enhetstest  Komponenttest  Integrationstest
 
 
 Tester jag använder i projektet
